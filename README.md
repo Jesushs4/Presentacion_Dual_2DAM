@@ -5,15 +5,15 @@
 https://www.canva.com/design/DAF_a-AMSDs/v0687-F0l39o-UUZ93S9kA/edit?utm_content=DAF_a-AMSDs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Tecnologías usadas
-macOS
-HTML + CSS
-Ionic + Angular + PrimeNG
-NX Monorepo
-Postman
-Git + Github
-Redocly
-Swagger
-Wacom
+- macOS
+- HTML + CSS
+- Ionic + Angular + PrimeNG
+- NX Monorepo
+- Postman
+- Git + GitHub
+- Redocly
+- Swagger
+- Wacom
 
 # Tareas más importantes
 
