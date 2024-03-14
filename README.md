@@ -32,4 +32,6 @@ https://github.com/Jesushs4/Presentacion_Dual_2DAM/assets/115071551/565b53f7-8ae
 ![archivo_yaml](https://github.com/Jesushs4/Presentacion_Dual_2DAM/assets/115071141/46a9fe68-3fed-4fc7-9852-bccebf006db3)
 
 ## Implementación de tableta Wacom para firmar (Jesús)
+https://github.com/Jesushs4/Presentacion_Dual_2DAM/assets/115071551/f09618d3-da79-4058-8914-99abc32c5596
+
 
